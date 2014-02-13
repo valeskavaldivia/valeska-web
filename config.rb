@@ -24,7 +24,7 @@ end
 # page "/path/to/file.html", :layout => :otherlayout
 #
 # A path which all have the same layout
-with_layout :sciencemarxiste do
+with_layout :valeskaweb do
   page "*"
 end
 
